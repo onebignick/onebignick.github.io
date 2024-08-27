@@ -64,7 +64,7 @@ export default function RootLayout({
             <NavigationMenuItem>
               <NavigationMenuTrigger>Homework</NavigationMenuTrigger>
               <NavigationMenuContent>
-                <ul className="grid gap-3 p-4 md:w-[400px] lg:w-[500px] lg:grid-cols-[.75fr_1fr]">
+                <ul>
                   <ListItem href="/justin" title="Justin Bieber Fanpage">
                     Justin Bieber Fanpage for IS216 - Web Application and Development II
                   </ListItem>
